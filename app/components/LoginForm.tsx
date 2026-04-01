@@ -63,7 +63,7 @@ const router = useRouter(); // Inizializzi il router
         }}
       >
         <h2 style={{ fontSize: '1.5rem', fontWeight: 700, color: '#020617', marginBottom: '2.5rem' }}>
-          Accedi al tuo account
+          Bentornato
         </h2>
 
         <form onSubmit={handleLogin} className="flex flex-col gap-6 items-center w-full">
